@@ -1,3 +1,5 @@
+![Running app](https://github.com/Aravind-Sridhar/Blog-Generation-using-Llama-2/blob/e639c6091dc06e2d5d5ccb11ea58c8a8ea80cb71/Blog%20Generation%20using%20Llama-2.jpeg)
+
 # Blog Generation using Llama2
 
 This is a Streamlit web application that generates blog content using the Llama2 language model. Users can input a topic, specify the number of words, and choose a blog style to generate a blog post dynamically.
